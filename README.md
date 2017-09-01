@@ -1,6 +1,6 @@
 # `bash` notebooks with `pandoc`
 
-Document & execute your command line code.  For fans of the command line, and for use with [Command Line Cartography](#Acknowledgements).
+Document & execute your command line code.  For fans of the command line, and for use with [Command Line Cartography](bash-notebook#acknowledgements).
 
 Write great documents with markdown, then execute in the shell.  Great for testing and ensuring you always have a functional shell script.
 
